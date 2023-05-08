@@ -11,6 +11,8 @@
 .x {
   position: absolute;
 }
+
+
 .a42Child {
   top: -105px;
   left: 1.43px;
@@ -151,7 +153,8 @@
 .a42 {
   position: relative;
   background-color: var(--color-white);
-  width: 100%;
+  margin:auto;
+  width: 45%;
   height: 1470px;
   overflow: hidden;
   text-align: left;
@@ -159,3 +162,9 @@
   color: var(--color-midnightblue);
   font-family: var(--font-montserrat);
 }
+.url{
+  text-decoration: none;
+  color: white;
+}
+
+.url:hover{text-decoration: none; color:white;}

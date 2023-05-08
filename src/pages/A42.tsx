@@ -21,10 +21,9 @@ const A42: FunctionComponent = () => {
         <p className={styles.freeEntry}>&nbsp;</p>
         <p className={styles.freeEntry}>Weekend of Competitive Debate Fun!</p>
       </div>
-      <Button className={styles.a42Item} variant="primary">
-        Button
+      <Button className={styles.signUp} variant="primary">
+        <a href = "https://airtable.com/shrlZ4OiOViAofY1h" className={styles.url}>SIGN UP</a>
       </Button>
-      <div className={styles.signUp}>SIGN UP</div>
       <div className={styles.stTeam50Container}>
         <p
           className={styles.freeEntry}
@@ -32,8 +31,8 @@ const A42: FunctionComponent = () => {
         <p
           className={styles.freeEntry}
         >{`2nd Team                               $40 per member `}</p>
-        <p className={styles.freeEntry}>3rd Team $30 per member</p>
-        <p className={styles.freeEntry}>4th Team $20 per member</p>
+        <p className={styles.freeEntry}>3rd Team                                  $30 per member</p>
+        <p className={styles.freeEntry}>4th Team                                 $20 per member</p>
         <p className={styles.freeEntry}>&nbsp;</p>
       </div>
       <div className={styles.saturday100PmContainer}>
