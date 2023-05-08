@@ -30,8 +30,8 @@ const A42: FunctionComponent = () => {
         >{`1st Team                                 $50 per member    `}</p>
         <p
           className={styles.freeEntry}
-        >{`2nd Team                               $40 per member `}</p>
-        <p className={styles.freeEntry}>3rd Team                                  $30 per member</p>
+        >{`2nd Team                                 $40 per member `}</p>
+        <p className={styles.freeEntry}>3rd Team                                 $30 per member</p>
         <p className={styles.freeEntry}>4th Team                                 $20 per member</p>
         <p className={styles.freeEntry}>&nbsp;</p>
       </div>
