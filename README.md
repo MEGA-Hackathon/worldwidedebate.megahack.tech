@@ -1,7 +1,7 @@
 
   # WorldWideDebate
 
-  Test: https://reliable-cheesecake-2add65.netlify.app (this is always synced to the lastest version)
+  Test: https://megadebate23.netlify.app (this is always synced to the lastest version)
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
