@@ -151,12 +151,10 @@
   width: 100px;
 }
 .a42 {
-  position: relative;
   background-color: var(--color-white);
   margin:auto;
-  width: 65%;
+  width: 50%;
   height: 1470px;
-  overflow: hidden;
   text-align: left;
   font-size: var(--font-size-21xl);
   color: var(--color-midnightblue);
